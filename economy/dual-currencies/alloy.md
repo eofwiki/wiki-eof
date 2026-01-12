@@ -11,8 +11,8 @@ ALLOY is a foundational in-game "soft" currency asset. Its entire existence and 
 \
 **How You Get It:**&#x20;
 
-You receive ALLOY when you unlock [Faction Lockboxes](../../utility-nfts/faction-shards-and-lockboxes.md), open Council Caches, or successfully loot them from the enemy players you defeat in combat. It is the direct reward for the skill of in-the-field gameplay.
+You receive ALLOY when you unlock Faction Lockboxes open Council Caches, or successfully loot them from the enemy players you defeat in combat. It is the direct reward for the skill of in-the-field gameplay.
 
 **Its Utility:**&#x20;
 
-ALLOY’s primary function is to serve as a crucial sink, used for various convenience (e.g. globes of fuel, trader coins), cosmetic purchases, or to acquire tactical [consumables](../../game/healing-items.md) that give you an edge in your next raid. It can also be exchanged for on-chain tokenized in-game asset - [FURY](fury.md) at your hideout's [Trading Station](https://wiki.eof.gg/key-economic-hubs/trading-station).
+ALLOY’s primary function is to serve as a crucial sink, used for various convenience (e.g. globes of fuel, trader coins), cosmetic purchases, or to acquire tactical consumables that give you an edge in your next raid. It can also be exchanged for on-chain tokenized in-game asset - FURY at your hideout's Trading Station.
