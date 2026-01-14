@@ -1,6 +1,6 @@
 # Fairwater
 
-**There will be 2 types of enemies you'll encounter in the** [**Fairwater**](../maps/fairwater.md) **Nightmare zone.**
+**There will be 2 types of enemies you'll encounter in the Fairwater Nightmare zone.**
 
 <table><thead><tr><th width="219.09375">Nightmare zone</th><th>HP</th></tr></thead><tbody><tr><td><div><figure><img src="../../.gitbook/assets/Adobe Express - file (20).png" alt=""><figcaption><p><strong>Goliath (Nightmare Boss)</strong></p></figcaption></figure></div></td><td>32750</td></tr><tr><td><div><figure><img src="../../.gitbook/assets/Adobe Express - file (19).png" alt=""><figcaption><p><strong>True Bug (Nightmare)</strong></p></figcaption></figure></div></td><td>273</td></tr></tbody></table>
 
