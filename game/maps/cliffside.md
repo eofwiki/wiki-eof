@@ -1,6 +1,6 @@
 # Cliffside
 
-![](<../../.ggitbook/assets/Overlay_Map (1).png>)
+![](<../../.gitbook/assets/Overlay_Map (1).png>)
 
 **Cliffside**\
 \
