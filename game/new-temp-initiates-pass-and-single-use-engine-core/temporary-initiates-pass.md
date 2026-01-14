@@ -1,6 +1,6 @@
 # Temporary Initiate's Pass
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/unknown.png>)
 
 The temporary Initiate’s Pass (non-NFT, valid only for the current season)\
 Holding this pass grants Initiated Raider status and allows access to Council Caches within a 5-hour window each day. Temporary pass is not an NFT & is valid for the entire season but will removed with the monthly wipe.\
