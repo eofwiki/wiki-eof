@@ -6,13 +6,12 @@
 
 * [🎅 Special Christmas Event](game/special-christmas-event.md)
 * [Game Overview](game/overview.md)
-* [New! Scavenger mode & Co-op](game/new-scavenger-mode-and-co-op/README.md)
+* [Scavenger mode & Co-op](game/new-scavenger-mode-and-co-op/README.md)
   * [Scavenger mode](game/new-scavenger-mode-and-co-op/scavenger-mode.md)
   * [Co-op](game/new-scavenger-mode-and-co-op/co-op.md)
-* New! Temp Initiate's Pass & Single Use
-  - [Overview](game/new-temp-initiates-pass-and-single-use-engine-core/README.md)
-  - [Temporary Initiate's Pass](game/new-temp-initiates-pass-and-single-use-engine-core/temporary-initiates-pass.md)
-  - [Single Use Engine Core](game/new-temp-initiates-pass-and-single-use-engine-core/single-use-engine-core.md)
+* [Temp Initiate's Pass & Single Use](game/new-temp-initiates-pass-and-single-use-engine-core/README.md)
+  * [Temporary Initiate's Pass](game/new-temp-initiates-pass-and-single-use-engine-core/temporary-initiates-pass.md)
+  * [Single Use Engine Core](game/new-temp-initiates-pass-and-single-use-engine-core/single-use-engine-core.md)
 * [Game Lore](game/game-lore/README.md)
   * [Characters](game/game-lore/characters.md)
   * [Locations](game/game-lore/locations.md)
@@ -63,4 +62,3 @@
   * [A Fresh Battlefield Every Month](meta-game/a-fresh-battlefield-every-month.md)
 * [Leaderboard](leaderboard.md)
 * [Disclaimer & Terms](disclaimer-and-terms.md)
-* [Recovery of lost assets](recovery-of-lost-assets.md)
