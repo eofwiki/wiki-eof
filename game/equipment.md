@@ -1,6 +1,6 @@
 # Equipment
 
-Defect set - Standard, basic set of armor to kick off the game. You receive Two pieces of it after the tutorial. Defect set grants the character some shields. Craft in [Precision Assembler](hideout/precision-assembler.md) level 1. Full set: 13 armor and 5 shield.
+Defect set - Standard, basic set of armor to kick off the game. You receive Two pieces of it after the tutorial. Defect set grants the character some shields. Craft in Precision Assembler level 1. Full set: 13 armor and 5 shield.
 
 <details>
 
@@ -18,7 +18,7 @@ Defect set - Standard, basic set of armor to kick off the game. You receive Two 
 
 </details>
 
-Guerilla set - Grants a decent armor boost, compared to Defect set and add a dodge chance instead of shields. Craft in [Precision Assembler](hideout/precision-assembler.md) level 2. Full set: 47 armor and 30% dodge chance.
+Guerilla set - Grants a decent armor boost, compared to Defect set and add a dodge chance instead of shields. Craft in Precision Assembler level 2. Full set: 47 armor and 30% dodge chance.
 
 <details>
 
@@ -36,7 +36,7 @@ Guerilla set - Grants a decent armor boost, compared to Defect set and add a dod
 
 </details>
 
-Merc set - A competitor to the Guerilla set. Grants more armor but a slightly smaller dodge chance. Craft in [Biolab](hideout/biolab.md) level 5. Full set: 110 armor and 15% dodge chance.
+Merc set - A competitor to the Guerilla set. Grants more armor but a slightly smaller dodge chance. Craft in Biolab level 5. Full set: 110 armor and 15% dodge chance.
 
 <details>
 
@@ -54,7 +54,7 @@ Merc set - A competitor to the Guerilla set. Grants more armor but a slightly sm
 
 </details>
 
-Spec set - the next step after the Merc set. Slightly more armor and slightly more shields. Craft in [Biolab](hideout/biolab.md) level 3. Full set: 43 armor and 17 shield.
+Spec set - the next step after the Merc set. Slightly more armor and slightly more shields. Craft in Biolab level 3. Full set: 43 armor and 17 shield.
 
 <details>
 
@@ -72,7 +72,7 @@ Spec set - the next step after the Merc set. Slightly more armor and slightly mo
 
 </details>
 
-Vagabond set - an upgrade to the Guerilla set. Slightly more armor and dodge chance. Craft in [Precision Assembler](hideout/precision-assembler.md) level 4. Full set: 56 armor and 36% dodge chance.
+Vagabond set - an upgrade to the Guerilla set. Slightly more armor and dodge chance. Craft in Precision Assembler level 4. Full set: 56 armor and 36% dodge chance.
 
 <details>
 
@@ -90,7 +90,7 @@ Vagabond set - an upgrade to the Guerilla set. Slightly more armor and dodge cha
 
 </details>
 
-Welding Set - betting it all on armor, this set does not provide any other bonuses other than the high armor value. Craft in [Biolab](hideout/biolab.md) level 4. Full set: 111 armor
+Welding Set - betting it all on armor, this set does not provide any other bonuses other than the high armor value. Craft in Biolab level 4. Full set: 111 armor
 
 <details>
 
