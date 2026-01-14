@@ -1,6 +1,6 @@
 # Single Use Engine Core
 
-![](<../../.gitbook/assets/unknown(1).png.png>)
+![](<../../.gitbook/assets/unknown(1).png>)
 
 **What is the Single-use Engine Core?**
 
