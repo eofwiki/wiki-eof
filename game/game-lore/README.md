@@ -6,7 +6,7 @@ The Universe of Engines of Fury is vast and full of terrors, but our [story](../
 
 <summary>Origin of the Conflict</summary>
 
-<figure><img src="../../.gitbook/assets/tgg9rfje-04.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/tgg9rfje-04.png>)
 
 </details>
 
