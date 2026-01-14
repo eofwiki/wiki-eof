@@ -11,4 +11,4 @@ In Co-op mode, up to two players can team up in their hideout and form a lobby t
 1. Open your hideout and select the **CO-OP** button located at the bottom of the screen.
 2. Enter the player’s nickname into the **Search** bar.
 3. Select the player from the results and send an invitation. The invited player must accept it.
-4. Once the party is formed, choose any [map ](../maps/)and **start a battle together**.
+4. Once the party is formed, choose any map and **start a battle together**.
