@@ -1,12 +1,7 @@
----
-description: >-
-  There are many "material" type items in Engines of Fury that are separated in
-  to few different categories.
----
 
 # Materials
 
-Materials that can only be found on the [Fairwater](maps/fairwater.md) map.
+Materials that can only be found on the Fairwater map.
 
 <details>
 
@@ -47,7 +42,7 @@ Junk items - used mostly for recycling into usable raw materials, with a few exc
 
 </details>
 
-[Hideout](hideout/) Items - rest of the "material" type items. Primarily used in the Hideout for either upgrading modules of powering up the generator.
+Hideout Items - rest of the "material" type items. Primarily used in the Hideout for either upgrading modules of powering up the generator.
 
 <details>
 
@@ -61,7 +56,7 @@ Junk items - used mostly for recycling into usable raw materials, with a few exc
 
 </details>
 
-Biological materials - used to craft [Consumable](healing-items.md) items for healing
+Biological materials - used to craft Consumable items for healing
 
 <details>
 
@@ -75,7 +70,7 @@ Biological materials - used to craft [Consumable](healing-items.md) items for he
 
 </details>
 
-Ammunition - used in [weapons ](weapons.md)by their respective weapon type.
+Ammunition - used in weapons by their respective weapon type.
 
 <details>
 
