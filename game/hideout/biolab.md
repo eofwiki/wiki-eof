@@ -7,7 +7,7 @@ Once you collect six shards of the same faction, you can combine them to craft a
 Biolab is the only location where [Lockbox](../../utility-nfts/faction-shards-and-lockboxes.md) crafting is possible.\
 **Note:** You’ll still need one more tool to open the [Lockbox](../../utility-nfts/faction-shards-and-lockboxes.md) and access the [$ALLOY](../../economy/dual-currencies/alloy.md) inside.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Adobe Express - file (11).png" alt="" width="563"><figcaption><p><em>Biolab module</em></p></figcaption></figure></div>
+![](<../../.gitbook/assets/Adobe Express - file (11).png>)
 
 **Bio Lab crafting:**
 
