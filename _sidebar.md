@@ -16,7 +16,6 @@
   * [Characters](game/game-lore/characters.md)
   * [Locations](game/game-lore/locations.md)
 * [Story](game/story.md)
-* [Tutorial Walkthrough](game/tutorial-walkthrough.md)
 * [Maps](game/maps/README.md)
   * [Cliffside](game/maps/cliffside.md)
   * [Fairwater](game/maps/fairwater.md)
