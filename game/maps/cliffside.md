@@ -1,6 +1,6 @@
 # Cliffside
 
-<div align="left"><figure><img src="../../.gitbook/assets/Overlay_Map (1).png" alt="" width="563"><figcaption><p><strong>Cliffside map</strong></p></figcaption></figure></div>
+![](<../../.ggitbook/assets/Overlay_Map (1).png>)
 
 **Cliffside**\
 \
