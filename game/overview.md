@@ -1,6 +1,6 @@
 # Game Overview
 
-Engines of Fury is a thrilling top-down extraction RPG set against the stark, chilling backdrop of a post-apocalyptic dystopia ravaged by [mutants](enemies/). Embark on a quests to survive and thrive, facing gruesome monsters and hostile players.
+Engines of Fury is a thrilling top-down extraction RPG set against the stark, chilling backdrop of a post-apocalyptic dystopia ravaged by [mutants](https://eofwiki.github.io/wiki-eof/#/game/enemies/README). Embark on a quests to survive and thrive, facing gruesome monsters and hostile players.
 
 Survivors scavenge desolate lands in search of loot and scrap to rebuild and upgrade their [hideouts](hideout/) and [equipment](equipment.md). If they die, they lose everything. Players level up and customise their builds to be able to face off increasingly stronger threats. Get ready for an exciting adventure in Engines of Fury!
 
