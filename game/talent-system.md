@@ -5,7 +5,7 @@
 **Unlocking Abilities**\
 Abilities within the skill tree are unlocked using a special resource called Medusal Cells.
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p><em>Skill Tree</em></p></figcaption></figure>
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 **Abilities**
 
