@@ -4,7 +4,7 @@ In Engines of Fury, Non-Fungible Tokens (NFTs) function as in-game utility asset
 
 NFT items released in EoF Season 2:&#x20;
 
-* [Initiate's Pass NFTs](initiates-pass.md)
-* [Cores](engine-and-its-cores.md)
-* [Faction Shards](faction-shards-and-lockboxes.md)
-* [Faction Lockboxes](faction-shards-and-lockboxes.md)
+* [Initiate's Pass NFTs](https://eofwiki.github.io/wiki-eof/#/utility-nfts/initiates-pass)
+* [Cores](https://eofwiki.github.io/wiki-eof/#/utility-nfts/engine-and-its-cores)
+* [Faction Shards](https://eofwiki.github.io/wiki-eof/#/utility-nfts/faction-shards-and-lockboxes)
+* [Faction Lockboxes](https://eofwiki.github.io/wiki-eof/#/utility-nfts/faction-lockbox-loot-and-summary)
