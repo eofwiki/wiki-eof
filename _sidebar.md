@@ -38,15 +38,14 @@
 * [Talent System](game/talent-system.md)
 * [Healing Items](game/healing-items.md)
 
+***
+
 ## Economy
 
 * [In-Game Economy overview](economy/overview.md)
 * [ALLOY & FURY](economy/dual-currencies/README.md)
   * [ALLOY](economy/dual-currencies/alloy.md)
   * [FURY](economy/dual-currencies/fury.md)
-
-***
-
 * [Utility NFTs](utility-nfts/README.md)
   * [Initiate's Pass](utility-nfts/initiates-pass.md)
   * [Faction Shards & Lockboxes](utility-nfts/faction-shards-and-lockboxes.md)
