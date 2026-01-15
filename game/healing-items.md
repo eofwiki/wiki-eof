@@ -1,6 +1,6 @@
 # Healing Items
 
-Consumables are healing items, that can be crafted at [Biolab](hideout/biolab.md) using the [Biological materials](materials.md) and support items that can be crafted in the [Precision Assmebler](hideout/precision-assembler.md). They each heal but also give a unique drawback to the user.
+Consumables are healing items, that can be crafted at Biolab using the Biological materials and support items that can be crafted in the Precision assembler. They each heal but also give a unique drawback to the user.
 
 <details>
 
