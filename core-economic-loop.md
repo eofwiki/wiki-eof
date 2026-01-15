@@ -2,7 +2,9 @@
 
 In Engines of Fury, each gameplay loop is a critical link in the chain of progression, and it all begins with ensuring you are the predator, not the prey. This path allows for multiple player archetypes—the cautious PvE farmer, the aggressive PvP hunter, and the savvy resource merchant—to find their niche and prosper.
 
-![](<../../.gitbook/assets/coregameplayloop.png>)
+![](<../../.gitbook/assets/core gameplay loop.png>)
+
+![](<../../.gitbook/assets/unknown.png>)
 
 **Step 1: Foundation**\
 First, you must become a formidable force. This foundational gameplay loop is non-negotiable. It revolves around crafting superior weapons and armor, undertaking missions to hone your abilities, and finding Medusal cells to unlock essential talents. If you are entering competitive zones unprepared, you are no longer a player—you are the loot for those who did prepare.
