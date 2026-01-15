@@ -1,8 +1,8 @@
 # Mini Factory
 
-**Mini Factory** is a [hideout](./) module the player can build only after they have built a [precision assembler](precision-assembler.md). It lets you craft powerful [weapons](../weapons.md).
+**Mini Factory** is a hideout module the player can build only after they have built a precision assembler. It lets you craft powerful weapons.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Adobe Express - file (13).png" alt="" width="563"><figcaption><p><em>Mini Factory module</em></p></figcaption></figure></div>
+![](<../../.gitbook/assets/Adobe Express - file (13).png>)
 
 **Precision Assembler crafting:**
 
