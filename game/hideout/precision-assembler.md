@@ -1,10 +1,10 @@
 # Precision Assembler
 
-**Precision assembler** is the first [hideout](./) module the player needs to build during the tutorial for further progression. It lets you craft starting [weapons](../weapons.md) and [equipment](../equipment.md), as well as ammo and fuel for the Generator.
+**Precision assembler** is the first hideout module the player needs to build during the tutorial for further progression. It lets you craft starting weapons and equipment, as well as ammo and fuel for the Generator.
 
-To build level 1 Precision assembler you are given a [Flash Container](../materials.md) from Raggy Mei after the quest "Humble Beginnings".
+To build level 1 Precision assembler you are given a Flash Container from Raggy Mei after the quest "Humble Beginnings".
 
-<div align="left"><figure><img src="../../.gitbook/assets/Adobe Express - file (10).png" alt="" width="563"><figcaption><p><em>Precision Assembler module</em></p></figcaption></figure></div>
+![](<../../.gitbook/assets/Adobe Express - file (10).png>)
 
 **Precision Assembler crafting:**
 
