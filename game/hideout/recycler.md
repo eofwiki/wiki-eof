@@ -1,8 +1,8 @@
 # Recycler
 
-**Recycler** is a [hideout](./) module that the player can build at any point in the game after going into a raid for the first time. It lets you recycle junk items into raw [materials](../materials.md) used to craft [weapons](../weapons.md), [equipment](../equipment.md), [consumables](../healing-items.md) and upgrade other modules.
+**Recycler** is a hideout module that the player can build at any point in the game after going into a raid for the first time. It lets you recycle junk items into raw materials used to craft weapons, equipment, consumables and upgrade other modules.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Adobe Express - file (9) (1).png" alt="" width="563"><figcaption><p><em>Recycler module</em></p></figcaption></figure></div>
+![](<../../.gitbook/assets/Adobe Express - file (9) (1).png>)
 
 **Junk items:**
 
