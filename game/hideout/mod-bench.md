@@ -1,8 +1,8 @@
 # Mod Bench
 
-**Mod Bench** is an in-game hideout module that allows players to upgrade their [equipment](../equipment.md) by converting existing items and additional ones into enhanced versions with improved stats.
+**Mod Bench** is an in-game hideout module that allows players to upgrade their equipment by converting existing items and additional ones into enhanced versions with improved stats.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Adobe Express - file (8).png" alt="" width="375"><figcaption><p><em>Mod Bench module</em></p></figcaption></figure></div>
+![](<../../.gitbook/assets/Adobe Express - file (8).png>)
 
 | Equipment type              | Increase   |
 | --------------------------- | ---------- |
