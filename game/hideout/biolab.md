@@ -1,11 +1,11 @@
 # Biolab
 
-**Bio Lab** is a [hideout ](./)module the player can build only after they have built a [Mini Factory](mini-factory.md). It lets you craft powerful [Equipment](../equipment.md) ,[consumables](../healing-items.md) & [lockboxes](../../utility-nfts/faction-shards-and-lockboxes.md).\
+**Bio Lab** is a hideout module the player can build only after they have built a Mini Factory. It lets you craft powerful Equipment ,consumables & lockboxes.\
 \
 **Crafting Faction Lockboxes**\
-Once you collect six shards of the same faction, you can combine them to craft a [Faction Lockbox](../../utility-nfts/faction-shards-and-lockboxes.md) - which is an NFT.\
-Biolab is the only location where [Lockbox](../../utility-nfts/faction-shards-and-lockboxes.md) crafting is possible.\
-**Note:** You’ll still need one more tool to open the [Lockbox](../../utility-nfts/faction-shards-and-lockboxes.md) and access the [$ALLOY](../../economy/dual-currencies/alloy.md) inside.
+Once you collect six shards of the same faction, you can combine them to craft a Faction Lockbox - which is an NFT.\
+Biolab is the only location where Lockbox crafting is possible.\
+**Note:** You’ll still need one more tool to open the Lockbox and access the ALLOY inside.
 
 ![](<../../.gitbook/assets/Adobe Express - file (11).png>)
 
@@ -13,31 +13,31 @@ Biolab is the only location where [Lockbox](../../utility-nfts/faction-shards-an
 
 |         | <div><figure><img src="../../.gitbook/assets/image (948).png" alt=""><figcaption></figcaption></figure></div> | <div><figure><img src="../../.gitbook/assets/image (949).png" alt=""><figcaption></figcaption></figure></div> |
 | ------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Level 1 | [Nomad Hood](../equipment.md)                                                                                 | Transistor Overdrive                                                                                          |
-| Level 1 | [Nomad Bracers](../equipment.md)                                                                              | Crippling Bandage                                                                                             |
-| Level 1 | [Nomad Armor](../equipment.md)                                                                                | Low Purity Painkillers                                                                                        |
-| Level 1 | [Nomad Grieves](../equipment.md)                                                                              | Defect Surgical Kit                                                                                           |
-| Level 1 | [Nomad Boots](../equipment.md)                                                                                | High Power Injector                                                                                           |
-| Level 1 | [Scout Helmet](../equipment.md)                                                                               | Wave Emitter                                                                                                  |
-| Level 1 | [Scout Bracers](../equipment.md)                                                                              | Fatigue Bandage                                                                                               |
-| Level 2 | [Scout Armor](../equipment.md)                                                                                | Extra Strong Painkillers                                                                                      |
-| Level 2 | [Scout Shin Guards](../equipment.md)                                                                          | Fatiguing Surgical Kit                                                                                        |
-| Level 2 | [Scout Boots](../equipment.md)                                                                                | Magnetic Engine                                                                                               |
-| Level 3 | [Spec Helmet](../equipment.md)                                                                                |                                                                                                               |
-| Level 3 | [Spec Bracers](../equipment.md)                                                                               |                                                                                                               |
-| Level 3 | [Spec Armor](../equipment.md)                                                                                 |                                                                                                               |
-| Level 3 | [Spec Leg Armor](../equipment.md)                                                                             |                                                                                                               |
-| Level 3 | [Spec Boots](../equipment.md)                                                                                 |                                                                                                               |
-| Level 4 | [Welding Mask](../equipment.md)                                                                               |                                                                                                               |
-| Level 4 | [Welding Arm Guards](../equipment.md)                                                                         |                                                                                                               |
-| Level 4 | [Welding Suit](../equipment.md)                                                                               |                                                                                                               |
-| Level 4 | [Welding Leg Armor](../equipment.md)                                                                          |                                                                                                               |
-| Level 4 | [Welding Boots](../equipment.md)                                                                              |                                                                                                               |
-| Level 5 | [Merc Helmet](../equipment.md)                                                                                |                                                                                                               |
-| Level 5 | [Merc Bracers](../equipment.md)                                                                               |                                                                                                               |
-| Level 5 | [Merc Suit](../equipment.md)                                                                                  |                                                                                                               |
-| Level 5 | [Merc Leg Armor](../equipment.md)                                                                             |                                                                                                               |
-| Level 5 | [Merc Boots](../equipment.md)                                                                                 |                                                                                                               |
+| Level 1 | Nomad Hood                                                                                 | Transistor Overdrive                                                                                          |
+| Level 1 | Nomad Bracers                                                                             | Crippling Bandage                                                                                             |
+| Level 1 | Nomad Armor                                                                             | Low Purity Painkillers                                                                                        |
+| Level 1 | Nomad Grieves                                                                              | Defect Surgical Kit                                                                                           |
+| Level 1 | Nomad Boots                                                                               | High Power Injector                                                                                           |
+| Level 1 | Scout Helmet                                                                               | Wave Emitter                                                                                                  |
+| Level 1 | Scout Bracers                                                                             | Fatigue Bandage                                                                                               |
+| Level 2 | Scout Armor                                                                                | Extra Strong Painkillers                                                                                      |
+| Level 2 | Scout Shin Guards                                                                         | Fatiguing Surgical Kit                                                                                        |
+| Level 2 | Scout Boots                                                                               | Magnetic Engine                                                                                               |
+| Level 3 | Spec Helmet                                                                               |                                                                                                               |
+| Level 3 | Spec Bracers                                                                               |                                                                                                               |
+| Level 3 | Spec Armor                                                                                 |                                                                                                               |
+| Level 3 | Spec Leg Armor                                                                            |                                                                                                               |
+| Level 3 | Spec Boots                                                                               |                                                                                                               |
+| Level 4 | Welding Mask                                                                          |                                                                                                               |
+| Level 4 | Welding Arm Guards                                                                         |                                                                                                               |
+| Level 4 | Welding Suit                                                                               |                                                                                                               |
+| Level 4 | Welding Leg Armor                                                                       |                                                                                                               |
+| Level 4 | Welding Boots                                                                             |                                                                                                               |
+| Level 5 | Merc Helmet                                                                               |                                                                                                               |
+| Level 5 | Merc Bracers                                                                            |                                                                                                               |
+| Level 5 | Merc Suit                                                                               |                                                                                                               |
+| Level 5 | Merc Leg Armor                                                                          |                                                                                                               |
+| Level 5 | Merc Boots                                                                               |                                                                                                               |
 
 \
 **Precision assembler level upgrades:**
