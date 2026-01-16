@@ -2,9 +2,7 @@
 
 ![](<../../.gitbook/assets/NFT VID _ 2 (1).png>)
 
-
 To unlock the most valuable loot in raids, you must first be Initiated by the High Council in Engines of Fury game. The Initiate’s Pass NFT is the entry requirement for accessing higher-tier raid rewards and progression systems.
-
 
 ![](<../../.gitbook/assets/initiate pass 1.png>)
 
