@@ -6,7 +6,7 @@ In Co-op mode, up to two players can team up in their hideout and form a lobby t
 \
 **How do I start a battle in co-op mode?**
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-11-26 at 15.22.14.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/Screenshot 2025-11-26 at 15.22.14.png>)
 
 1. Open your hideout and select the **CO-OP** button located at the bottom of the screen.
 2. Enter the player’s nickname into the **Search** bar.
