@@ -70,7 +70,7 @@
 
 </details>
 
-[**Weapons**](../weapons.md) **&**[ **Equipment**](../equipment.md)**:**
+**Weapons & Equipment**
 
 <details>
 
