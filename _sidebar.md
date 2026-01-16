@@ -1,5 +1,7 @@
 * [Welcome to Engines of Fury!](README.md)
 
+ ## Game
+
 * [Game Overview](game/overview.md)
 * [Scavenger mode & Co-op](game/new-scavenger-mode-and-co-op/README.md)
   * [Scavenger mode](game/new-scavenger-mode-and-co-op/scavenger-mode.md)
@@ -34,6 +36,8 @@
 * [Healing Items](game/healing-items.md)
 
 ***
+
+  ## Economy
 
 * [In-Game Economy overview](economy/overview.md)
 * [ALLOY & FURY](economy/dual-currencies/README.md)
