@@ -5,9 +5,10 @@
 ## Game
 
 * [Game Overview](game/overview.md)
-* [Scavenger mode & Co-op](game/new-scavenger-mode-and-co-op/README.md)
-  * [Scavenger mode](game/new-scavenger-mode-and-co-op/scavenger-mode.md)
-  * [Co-op](game/new-scavenger-mode-and-co-op/co-op.md)
+* Temp Initiate's Pass & Single Use
+  * [Temporary Initiate's Pass](game/new-temp-initiates-pass-and-single-use-engine-core/README.md)
+  * [Single Use Engine Core](game/new-temp-initiates-pass-and-single-use-engine-core/single-use-engine-core.md)
+
 * [Temp Initiate's Pass & Single Use](game/new-temp-initiates-pass-and-single-use-engine-core/README.md)
   * [Temporary Initiate's Pass](game/new-temp-initiates-pass-and-single-use-engine-core/temporary-initiates-pass.md)
   * [Single Use Engine Core](game/new-temp-initiates-pass-and-single-use-engine-core/single-use-engine-core.md)
