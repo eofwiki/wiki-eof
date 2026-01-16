@@ -1,5 +1,7 @@
 * [Welcome to Engines of Fury!](README.md)
 
+***
+
  ## Game
 
 * [Game Overview](game/overview.md)
