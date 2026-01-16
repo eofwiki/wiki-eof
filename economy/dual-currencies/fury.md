@@ -2,7 +2,6 @@
 
 FURY is the official on-chain tokenized in-game asset of Engines of Fury.&#x20;
 
-<figure><img src="../../.gitbook/assets/FURY.png" alt=""><figcaption></figcaption></figure>
 ![](<../../.gitbook/assets/FURY.png>)
 
 **What It Is:**&#x20;
