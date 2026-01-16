@@ -2,7 +2,7 @@
 
 Your hideout is your personal base and the center of your progression potential. Its modules are critical to your survival and prosperity.
 
-![](/.gitbook/assets/unknown.png)
+![](/.gitbook/assets/1.12 Image no 3 - Hideout.png)
 
 From an in-game economy perspective, three modules are paramount:
 
