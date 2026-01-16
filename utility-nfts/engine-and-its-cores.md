@@ -2,7 +2,7 @@
 
 Once you have crafted a [Faction Lockbox](faction-shards-and-lockboxes.md), you need the right tool to open it. [Engine](../game/hideout/engine.md) is a specialized [hideout module](https://wiki.eof.gg/game/hideout), and Engine Core NFTs are the reusable keys that turn it on.
 
-<figure><img src="../.gitbook/assets/engine cores.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/engine cores.png.png>)
 
 **What is Engine?**&#x20;
 
