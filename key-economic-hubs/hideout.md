@@ -17,7 +17,6 @@ This module powers your entire hideout, including the Engine. It requires Globs 
 
 **Biolab Module:**
 
-<div align="left"><figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption><p>Biolab module</p></figcaption></figure></div>
 
 ![](/gitbook/assets/image_(6)_(1).png)
 
