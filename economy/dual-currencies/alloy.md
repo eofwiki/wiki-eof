@@ -2,7 +2,7 @@
 
 ALLOY is the raw material you’ll pull from the most dangerous corners of the world. It is the lifeblood of your day-to-day operations and the primary in-game asset you will earn from your efforts.
 
-<figure><img src="../../.gitbook/assets/ALLOY.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/ALLOY.png>)
 
 **What It Is:**&#x20;
 
