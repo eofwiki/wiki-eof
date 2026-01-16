@@ -6,7 +6,7 @@ Survivors scavenge desolate lands in search of loot and scrap to rebuild and upg
 
 <details>
 
-<summary>Core gameplay loop</summary>
+<summary>Core Gameplay loop</summary>
 
 The player's main objective is to infiltrate a location, collect valuable loot, and safely extract to their hideout. At the hideout, players can craft upgrades for their character, equipment, and the hideout itself - improving their chances of survival and increasing access to better items.
 
