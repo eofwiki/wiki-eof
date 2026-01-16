@@ -3,10 +3,6 @@
 ## Game
 
 * [Game Overview](game/overview.md)
-* Temp Initiate's Pass & Single Use
-  * [Temporary Initiate's Pass](game/new-temp-initiates-pass-and-single-use-engine-core/README.md)
-  * [Single Use Engine Core](game/new-temp-initiates-pass-and-single-use-engine-core/single-use-engine-core.md)
-
 * [Temp Initiate's Pass & Single Use](game/new-temp-initiates-pass-and-single-use-engine-core/README.md)
   * [Temporary Initiate's Pass](game/new-temp-initiates-pass-and-single-use-engine-core/temporary-initiates-pass.md)
   * [Single Use Engine Core](game/new-temp-initiates-pass-and-single-use-engine-core/single-use-engine-core.md)
