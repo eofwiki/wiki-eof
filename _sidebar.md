@@ -2,39 +2,29 @@
 
 ## Game
 
-* Game Overview
-  * [Game Overview](game/overview.md)
-
+* [Game Overview](game/overview.md)
 * Temp Initiate's Pass & Single Use
   * [Temporary Initiate's Pass](game/new-temp-initiates-pass-and-single-use-engine-core/README.md)
   * [Single Use Engine Core](game/new-temp-initiates-pass-and-single-use-engine-core/single-use-engine-core.md)
 
-* Game Lore
+* [Temp Initiate's Pass & Single Use](game/new-temp-initiates-pass-and-single-use-engine-core/README.md)
+  * [Temporary Initiate's Pass](game/new-temp-initiates-pass-and-single-use-engine-core/temporary-initiates-pass.md)
+  * [Single Use Engine Core](game/new-temp-initiates-pass-and-single-use-engine-core/single-use-engine-core.md)
+* [Game Lore](game/game-lore/README.md)
   * [Characters](game/game-lore/characters.md)
   * [Locations](game/game-lore/locations.md)
-
-* Story
-  * [Story](game/story.md)
-
-* Maps
+* [Story](game/story.md)
+* [Maps](game/maps/README.md)
   * [Cliffside](game/maps/cliffside.md)
   * [Fairwater](game/maps/fairwater.md)
-
-* Enemies
+* [Enemies](game/enemies/README.md)
   * [Tutorial](game/enemies/tutorial.md)
   * [Cliffside](game/enemies/cliffside.md)
   * [Fairwater](game/enemies/fairwater.md)
-
-* Weapons
-  * [Weapons](game/weapons.md)
-
-* Materials
-  * [Materials](game/materials.md)
-
-* Equipment
-  * [Equipment](game/equipment.md)
-
-* Hideout
+* [Weapons](game/weapons.md)
+* [Materials](game/materials.md)
+* [Equipment](game/equipment.md)
+* [Hideout](game/hideout/README.md)
   * [Mod Bench](game/hideout/mod-bench.md)
   * [Trading Station](game/hideout/trading-station.md)
   * [Precision Assembler](game/hideout/precision-assembler.md)
@@ -43,43 +33,28 @@
   * [Recycler](game/hideout/recycler.md)
   * [Engine](game/hideout/engine.md)
   * [Generator](game/hideout/generator.md)
-
-* Talent System
-  * [Talent System](game/talent-system.md)
-
-* Healing Items
-  * [Healing Items](game/healing-items.md)
+* [Talent System](game/talent-system.md)
+* [Healing Items](game/healing-items.md)
 
 ***
 
 ## Economy
 
-* In-Game Economy
-  * [Overview](economy/overview.md)
-
-* ALLOY & FURY
+* [In-Game Economy overview](economy/overview.md)
+* [ALLOY & FURY](economy/dual-currencies/README.md)
   * [ALLOY](economy/dual-currencies/alloy.md)
   * [FURY](economy/dual-currencies/fury.md)
-
-* Utility NFTs
+* [Utility NFTs](utility-nfts/README.md)
   * [Initiate's Pass](utility-nfts/initiates-pass.md)
   * [Faction Shards & Lockboxes](utility-nfts/faction-shards-and-lockboxes.md)
   * [Engine & its Cores](utility-nfts/engine-and-its-cores.md)
   * [Faction Lockbox Loot & Summary](utility-nfts/faction-lockbox-loot-and-summary.md)
-
-* Core Economic Loop
-  * [Core Economic Loop](core-economic-loop.md)
-
-* Key Economic Hubs
+* [Core Economic Loop](core-economic-loop.md)
+* [Key Economic Hubs](key-economic-hubs/README.md)
   * [Hideout](key-economic-hubs/hideout.md)
   * [Trading Station](key-economic-hubs/trading-station.md)
-
-* Meta-Game
+* [Meta-Game](meta-game/README.md)
   * [Monthly Economic Cycle](meta-game/monthly-economic-cycle.md)
   * [A Fresh Battlefield Every Month](meta-game/a-fresh-battlefield-every-month.md)
-
-* Leaderboard
-  * [Leaderboard](leaderboard.md)
-
-* Disclaimer & Terms
-  * [Disclaimer & Terms](disclaimer-and-terms.md)
+* [Leaderboard](leaderboard.md)
+* [Disclaimer & Terms](disclaimer-and-terms.md)
