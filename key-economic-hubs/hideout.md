@@ -19,7 +19,7 @@ This module powers your entire hideout, including the Engine. It requires Globs 
 
 <div align="left"><figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption><p>Biolab module</p></figcaption></figure></div>
 
-![](/gitbook/assets/image(6)(1).png)
+![](/gitbook/assets/image_(6)_(1).png)
 
 \
 This module allows you to combine five shards of the same faction to craft a Faction Lockbox. &#x20;
