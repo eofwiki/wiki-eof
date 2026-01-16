@@ -5,6 +5,18 @@
   <title>Engines of Fury Wiki</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+
+  <!-- CSS fix to remove unwanted dropdown arrows -->
+  <style>
+    /* always show children */
+    .sidebar-nav li > ul {
+      display: block !important;
+    }
+    /* hide default Docsify arrows */
+    .sidebar-nav li > a:after {
+      display: none;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
@@ -21,3 +33,4 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
+
