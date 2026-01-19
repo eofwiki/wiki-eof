@@ -2,7 +2,7 @@
 
 Trading Station is where you manage your in-game assets and gear up for the next raid. It contains two main areas: The Council Offerings and The Exchange.
 
-<div align="left"><figure><img src="../.gitbook/assets/Adobe Express - file (12).png" alt="" width="563"><figcaption><p>Trading station</p></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Adobe Express - file (12).png" alt="" width="563"></figure></div>
 
 **The Council Offerings**\
 The Council Offerings is where players will find rotating selection of high-value items such as essential crafting materials, Globs of Fuel to power your generator and Engine, and tactical consumables for any combat scenario.
