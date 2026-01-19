@@ -8,8 +8,6 @@ Once you have crafted a Faction Lockbox, you need the right tool to open it. Eng
 
 Engine is a new hideout module that can unlock Faction lockboxes. To turn on the Engine, you must insert a Core. It can be removed from the Engine and transferred to other players, including via external platforms, at their own discretion and risk.<br>
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="563">/figure></div>
-
 **Obtaining an Engine Core:**&#x20;
 
 * Through limited access sales carried out on third-party platforms (e.g., TokenTrove), which independently organize and distribute NFTs provided by Engines of Fury.&#x20;
