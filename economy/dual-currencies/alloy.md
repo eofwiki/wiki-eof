@@ -6,7 +6,7 @@ ALLOY is the raw material you’ll pull from the most dangerous corners of the w
 
 **What It Is:**&#x20;
 
-ALLOY is a foundational in-game "soft" currency asset. Its entire existence and utility are contained within the Engines of Fury in-game ecosystem.
+ALLOY is a foundational in-game "soft" currency asset . Its entire existence and utility are contained within the Engines of Fury in-game ecosystem.
 
 \
 **How You Get It:**&#x20;
